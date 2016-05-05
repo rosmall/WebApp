@@ -1,5 +1,5 @@
 # WebApp
-@ Page Language="C#" AutoEventWireup="true" CodeBehind="server_login.aspx.cs" Inherits="IIS._04.server_login" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="server_login.aspx.cs" Inherits="IIS._04.server_login" %>
 
 <!DOCTYPE html>
 
